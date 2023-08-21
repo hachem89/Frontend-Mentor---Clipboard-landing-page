@@ -282,7 +282,7 @@ a i {
 
 /* scroll snap : https://www.youtube.com/watch?v=ytl6TrroGis&t=212s */
 html {
-  scroll-snap-type: y mandatory;
+  scroll-snap-type: y proximity;
 }
 
 .scroll-section {
