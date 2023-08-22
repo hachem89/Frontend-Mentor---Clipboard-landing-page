@@ -281,10 +281,10 @@ a i {
 }
 
 /* scroll snap : https://www.youtube.com/watch?v=ytl6TrroGis&t=212s */
-html {
+/* html {
   scroll-snap-type: y proximity;
 }
 
 .scroll-section {
   scroll-snap-align: start;
-}
+} */
